@@ -12,6 +12,7 @@ package hucha;
 public class Hucha {
     
      int saldo = 0;
+     // este cambio es para hacer otro commit
      
      public void introducir(int a){
      saldo+=a;
