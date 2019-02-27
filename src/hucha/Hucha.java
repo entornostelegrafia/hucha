@@ -32,7 +32,7 @@ public class Hucha {
         Hucha P=new Hucha();
         
      P.introducir(50);   // Debe meter 50 en la hucha
-     P.sacar(20);   // Debe sacar 20 de la hucha
+     P.sacar(25);   // Debe sacar 20 de la hucha
      P.introducir(40);
       P.informar();  // Debe mostrar por pantalla "Hay 30 en la hucha";
     }
